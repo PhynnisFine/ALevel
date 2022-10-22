@@ -35,7 +35,6 @@ namespace Amicable_numbers
                 if (factorsum[factorsum[i]] == i)
                 {
                     Console.WriteLine(i + ", " + factorsum[i]);
-
                 }
             }
 
