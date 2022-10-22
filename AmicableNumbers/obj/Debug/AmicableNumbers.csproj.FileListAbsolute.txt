@@ -1,0 +1,8 @@
+C:\Users\17fse\source\repos\PhynnisFine\ALevel\AmicableNumbers\bin\Debug\AmicableNumbers.exe.config
+C:\Users\17fse\source\repos\PhynnisFine\ALevel\AmicableNumbers\bin\Debug\AmicableNumbers.exe
+C:\Users\17fse\source\repos\PhynnisFine\ALevel\AmicableNumbers\bin\Debug\AmicableNumbers.pdb
+C:\Users\17fse\source\repos\PhynnisFine\ALevel\AmicableNumbers\obj\Debug\AmicableNumbers.csproj.AssemblyReference.cache
+C:\Users\17fse\source\repos\PhynnisFine\ALevel\AmicableNumbers\obj\Debug\AmicableNumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\17fse\source\repos\PhynnisFine\ALevel\AmicableNumbers\obj\Debug\AmicableNumbers.csproj.CoreCompileInputs.cache
+C:\Users\17fse\source\repos\PhynnisFine\ALevel\AmicableNumbers\obj\Debug\AmicableNumbers.exe
+C:\Users\17fse\source\repos\PhynnisFine\ALevel\AmicableNumbers\obj\Debug\AmicableNumbers.pdb
